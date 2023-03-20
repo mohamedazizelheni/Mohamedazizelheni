@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, This is Aziz</h1>
-<h3 align="center">A software engineer from Tunisia,my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3 align="center">A software engineer from Tunisia, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedazizelheni" alt="mohamedazizelheni" /></a> </p>
 
