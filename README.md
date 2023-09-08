@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WelcomeToEsprit**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Spring,Angular,Symfony**
 
