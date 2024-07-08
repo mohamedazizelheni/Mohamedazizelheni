@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **WelcomeToEsprit**
+- 🔭 I’m currently working on a hush-hush project that's too cool for GitHub. 🚀💼
 
 - 🌱 I’m currently learning **React**
 
