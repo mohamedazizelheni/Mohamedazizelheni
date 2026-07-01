@@ -95,8 +95,8 @@ More on my [portfolio](https://medazizelheni.com).
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" alt="GitHub stats" />
-<img src="./profile/top-langs.svg" width="48%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedazizelheni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazizelheni&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
