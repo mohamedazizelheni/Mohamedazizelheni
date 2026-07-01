@@ -1,113 +1,109 @@
-<h1 align="center">👋 Hello, This is Aziz</h1>
-<h3 align="center">A software engineer from Tunisia, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
+<div align="center">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedazizelheni" alt="mohamedazizelheni" />
-  </a> 
-</p>
+# Mohamed Aziz El Hani
 
-- 🔭 I’m currently working on a hush-hush project that's too cool for GitHub. 🚀💼
+### Full-Stack Software Engineer · Dubai, UAE
 
-- 🌱 I’m currently learning **React**
+I design systems, then I run them. I build production-grade platforms —
+ERPs, ordering systems, booking platforms — with AI features baked in, not
+bolted on.
 
-- 💬 Ask me about **Spring, Angular, Symfony**
+[![Portfolio](https://img.shields.io/badge/Portfolio-medazizelheni.com-3FB6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medazizelheni.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/med-aziz-elheni)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medazizelheni8@gmail.com)
 
-- 📫 How to reach me **mohamedaziz.elheni@esprit.tn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/med-aziz-elheni/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med aziz elheni" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/medaziz.elheni.9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med aziz elheni" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedazizelheni" alt="mohamedazizelheni" />
-  </a>
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedazizelheni&show_icons=true&locale=en&layout=compact" alt="mohamedazizelheni" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedazizelheni&show_icons=true&locale=en" alt="mohamedazizelheni" /></p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazizelheni&" alt="mohamedazizelheni" />
-</p>
+## About
+
+Software engineer currently working as Software Engineer & Technical Lead at
+**Don Bambaloni** in Dubai, where I build and run a custom ERP platform that
+handles invoicing, delivery orders, dispatching, HR, and sales in one system.
+
+Before that, I worked as a Software Engineer at Dundill in Tunisia, building
+scalable web applications with React, Next.js, and Node.js.
+
+I hold a B.Eng. in Software Engineering from ESPRIT, Tunis. I speak Arabic,
+English, and French, and work across the UAE and Tunisian markets.
 
 ---
 
-<h3 align="center">📢 Fun Fact:</h3>
-<p align="center">
-  I don't have much on GitHub because most of my code is busy making money! 💸💻
-</p>
+## What I build
+
+- **AI-powered ordering platforms** — like GatheredHQ, a multi-restaurant
+  ordering system with an AI feature that turns an uploaded menu photo or PDF
+  into a full digital menu, and an in-app AI assistant that recommends dishes
+  to guests
+- **ERP and business systems** — internal platforms that run real company
+  operations end to end
+- **Booking and marketplace platforms** — dual-sided systems connecting
+  service providers and customers, with real-time sync and online payments
+- **Client and agency websites** — fast, modern sites built on Next.js
+
+---
+
+## Tech stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[GatheredHQ](https://gatheredhq.com)** | Multi-restaurant ordering platform with AI menu extraction and an AI guest assistant | Next.js · NestJS · PostgreSQL · Redis |
+| **Don Bambaloni ERP** | Internal ERP running invoicing, delivery orders, dispatch, HR, and sales in one system | React · Node.js · TypeScript |
+| **[Obsidian Force](https://obsidianforceuae.com)** | Website for a fitness community in Dubai | Next.js |
+| **[Vibrancy Agence](https://vibrancyagence.com)** | Agency website | Next.js |
+| **[LMJ](https://lmjcapitals.com)** | Real estate website with property listings | Next.js · Express · MongoDB |
+| **Benefits Properties** | Real estate platform with a custom CMS and Kanban-based CRM | React · Next.js · Azure |
+| **Cleaning & Maintenance Platform** | Dual-sided on-demand marketplace with real-time sync and Stripe payments | Flutter · Firebase · Stripe |
+
+More on my [portfolio](https://medazizelheni.com).
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedazizelheni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazizelheni&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something.** 📩 [medazizelheni8@gmail.com](mailto:medazizelheni8@gmail.com)
+
+</div>
